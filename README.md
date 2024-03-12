@@ -35,7 +35,7 @@ pip install pandas
 
 ## Usage
 
-1. Run the `mouse_app.py` file.
+1. Run the `main.py` file.
 2. The Mouse Database Application GUI will open.
 3. Enter the cage number, mouse number, and date of birth in the respective fields.
 4. Click the "Submit" button to add the data to the database.
