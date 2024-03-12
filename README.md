@@ -1,5 +1,15 @@
 # Mouse Database Application
 
+#### Vedio Demo: https://youtu.be/OhXtMd5Aq8w
+
+Title: Mouse Sheet Manager
+Name: Hsuan-Ming Chi
+GitHub: AlanChi0720
+Location: New Jersey, USA
+Date: 03/11/2024
+
+I am a lab manager and interested in programmning so I decided to build up this application for my daily work use.
+
 This is a Python application that allows users to manage mouse data in a SQLite database. The application provides a graphical user interface (GUI) built with Tkinter, where users can input cage numbers, mouse numbers, and dates of birth for mice.
 
 ## Features
